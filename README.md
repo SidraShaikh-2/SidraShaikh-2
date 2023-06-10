@@ -1,16 +1,18 @@
 ### Hi there 👋
+  
+ # About Me
+Hello! I'm an Electronics Engineer with expertise in embedded systems, software development, and augmented reality. I have a strong passion for creating innovative solutions and exploring new technologies. With my diverse background and coding experience in C++, C#, Python, Flutter, and web/app development, I strive to develop efficient and user-friendly applications. I enjoy working on challenging projects that require problem-solving skills and creativity.
 
-<!--
-**SidraShaikh-2/SidraShaikh-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills  
+Embedded systems design and development  
+Software development  
+Augmented reality development  
+C++  
+C#  
+Python  
+Web/app development  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education  
+B.E in Electronics Engineering  
+University Name (Karachi, PK)  
+2017-2021
