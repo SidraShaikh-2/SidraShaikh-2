@@ -14,5 +14,5 @@ Web/app development
 
 ## Education  
 B.E in Electronics Engineering  
-University Name (Karachi, PK)  
+NED University (Karachi, PK)  
 2017-2021
