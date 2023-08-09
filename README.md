@@ -1,10 +1,11 @@
+<div align='right'>
+	
 [![GitHub Watchers](https://img.shields.io/github/watchers/SidraShaikh-2/SidraShaikh-2.svg)](https://github.com/SidraShaikh-2/SidraShaikh-2/watchers)
 [![GitHub Followers](https://img.shields.io/github/followers/SidraShaikh-2?label=Follow)](https://github.com/SidraShaikh-2)
 
-### 📫 How to reach me: 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidrashaikh015/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sid.shaikh.7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidrashaikh.str@gmail.com)
+</div>
+
+
 
 <h1 align="center"><b>Hi , I'm Sidra Shaikh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
@@ -85,12 +86,24 @@
 
 <br>
 
+- **GitHub Stats**:  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidraShaikh-2&theme=blue-green) 
+ ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SidraShaikh-2&theme=blue-green)
 
+
+<!---
 <div align='center'>
 
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
+--->
+### 📫 How to reach me: 
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidrashaikh015/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sid.shaikh.7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidrashaikh.str@gmail.com)
+
+
 <br>
 <br>
 <br>
